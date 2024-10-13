@@ -9,11 +9,11 @@ email: valirakisman@gmail.com
 # 
 Studies:
 
-2002 - 2010 Bachelor's Degree TEI of Crete, Dept of Applied informatics and Multimedia
+2002 - 2010: Bachelor's Degree TEI of Crete, Dept of Applied informatics and Multimedia
 
-2018 - 2021 Master's Degree Hellenic Open Univercity, Graphic Arts - Multimedia
+2018 - 2021: Master's Degree Hellenic Open Univercity, Graphic Arts - Multimedia
 
-2022 School of Pedagogical and Technological Education - Annual Pedagogical Training Program (EPPAIK)
+2022 - 2023: School of Pedagogical and Technological Education - Annual Pedagogical Training Program (EPPAIK)
 #
 
 Licenses & certifications: 
