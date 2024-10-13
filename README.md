@@ -25,7 +25,7 @@ TEI of Crete - Digital Broadcasting – Real Time Communication and its Quality 
 Hellenic Management Association Non Profit Organisation - Quality management & assurance systems in business organization & administration
 
 University of the Aegean - Special Treatment and Education - Ειδική Αγωγή και Εκπαίδευση
-
+#
 
 Job experience:
 - years: Jul 2007 - Feb 2010
