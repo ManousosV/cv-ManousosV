@@ -2,6 +2,7 @@
 
 ---
 name: Manousos Valirakis
+
 address:
 - Skouladon 5-7
 - 71202 Herakleion
