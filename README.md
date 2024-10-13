@@ -24,11 +24,11 @@ Job experience:
 - years: Dec 2013 – Mar 2021
   employer: Sky Express
   job: Commercial and Sales Executive
-  city: herakleion
+  city: Herakleion
   - years: Mar 2021 – May 2021
   employer: Sky Express
   job: Marketing Executive
-  city: herakleion
+  city: Herakleion
  - years: Jun 2022 – Now
   employer: Elizabeth Estate Agency
   job: Multimedia Specialist
