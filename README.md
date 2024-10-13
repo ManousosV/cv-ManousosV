@@ -17,6 +17,7 @@ Studies:
 #
 
 Licenses & certifications: 
+
 Centre for Research & Technology Hellas (CERTH) - Adult Instructor Training
 
 TEI of Crete - Digital Broadcasting – Real Time Communication and its Quality in IP Networks
