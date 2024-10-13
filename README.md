@@ -18,8 +18,11 @@ Studies:
 
 Licenses & certifications: 
 Centre for Research & Technology Hellas (CERTH) - Adult Instructor Training
+
 TEI of Crete - Digital Broadcasting – Real Time Communication and its Quality in IP Networks
+
 Hellenic Management Association Non Profit Organisation - Quality management & assurance systems in business organization & administration
+
 University of the Aegean - Special Treatment and Education - Ειδική Αγωγή και Εκπαίδευση
 
 
