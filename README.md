@@ -6,14 +6,13 @@ name: Manousos Valirakis
 address: Skouladon 5-7, 71202 Herakleion Greece
 
 email: valirakisman@gmail.com
-# ...
-
+# 
 Studied:
 2002 - 2010 Bachelor's Degree TEI of Crete, Dept of Applied informatics and Multimedia
 #
 2018 - 2022 Master's Degree Hellenic Open Univercity, Graphic Arts - multimedia
-
-experience:
+#
+Job experience:
 - years: Jul 2007 - Feb 2010
   employer: O.A.K SA
   job: IT Specialist
