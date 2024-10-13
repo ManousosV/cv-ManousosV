@@ -17,22 +17,17 @@ Studied:
 #
 Job experience:
 - years: Jul 2007 - Feb 2010
-  employer: O.A.K SA
-  job: IT Specialist
+  employer: O.A.K SA - IT Specialist
 
 - years: May2011 - Nov 2013
-  employer: MANOUSOS VALIRAKIS · Self-employed
-  job: Systems and Software Consulting Services
+  employer: MANOUSOS VALIRAKIS · Self-employed - Systems and Software Consulting Services
 
 - years: Dec 2013 – Mar 2021
-  employer: Sky Express
-  job: Commercial and Sales Executive
+  employer: Sky Express - Commercial and Sales Executive
 
   - years: Mar 2021 – May 2021
-  employer: Sky Express
-  job: Marketing Executive
+  employer: Sky Express - Marketing Executive
 
  - years: Jun 2022 – Now
-  employer: Elizabeth Estate Agency
-  job: Multimedia Specialist
+  employer: Elizabeth Estate Agency - Multimedia Specialist
 
