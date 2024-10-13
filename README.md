@@ -8,6 +8,7 @@ address: Skouladon 5-7, 71202 Herakleion Greece
 email: valirakisman@gmail.com
 # 
 Studied:
+
 2002 - 2010 Bachelor's Degree TEI of Crete, Dept of Applied informatics and Multimedia
 
 2018 - 2021 Master's Degree Hellenic Open Univercity, Graphic Arts - multimedia
